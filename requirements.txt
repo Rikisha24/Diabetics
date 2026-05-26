@@ -17,3 +17,11 @@ aioredis==2.0.1
 alembic==1.13.2
 passlib[bcrypt]==1.7.4
 email-validator==2.1.1
+groq==0.9.0
+python-docx==1.1.2
+pandas==2.2.2
+scikit-learn==1.5.0
+openai-whisper
+deep-translator
+torch==2.3.1
+torchaudio==2.3.1
